@@ -3,6 +3,7 @@ import torch
 import torch.nn.functional as F
 import pandas as pd
 
+
 # %%
 # Read Input file
 train_data = pd.read_csv('../input/train_data.txt', sep='\t').values
