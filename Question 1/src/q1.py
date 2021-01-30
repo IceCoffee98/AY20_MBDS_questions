@@ -98,6 +98,6 @@ write_output(100, list4)
 
 # %%
 # The number is too large. Sorry, I haven't find a solution yet
-# list5 = get_route(90000, 100000, 87127231192)
-# print(87127231192, ''.join(list5))
+list5 = get_route(90000, 100000, 87127231192)
+print(87127231192, ''.join(list5))
 # %%
