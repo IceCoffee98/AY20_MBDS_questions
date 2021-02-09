@@ -1,3 +1,20 @@
 {
-    "python.pythonPath": "/opt/anaconda3/bin/python"
+    "python.pythonPath": "/bin/python3",
+    "window.zoomLevel": 1,
+    "jupyter.interactiveWindowMode": "perFile",
+    "workbench.colorTheme": "Monokai",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "terminal.integrated.inheritEnv": false,
+    "jupyter.askForKernelRestart": false,
+    "explorer.confirmDelete": false,
+    "editor.codeActionsOnSave": null,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "editor.fontSize": 14,
+    "editor.formatOnType": true,
+    "notebook.kernelProviderAssociations": [
+    
+    ]
 }

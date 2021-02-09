@@ -1,1 +1,2 @@
 # AY20_MBDS_questions
+Source code, input, and output files of Question 1, 3, 4, 5, 6, and 7 are all here in this repository. Answers to Question 2, 8, 9 are in the pdf answer sheet attached to my reply e-mail.
